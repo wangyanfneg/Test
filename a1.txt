@@ -5,3 +5,5 @@ git clone  获取代码到本地库
 git push   推送代码
 
 git pull   拉取代码
+
+Git remote add 起别名
